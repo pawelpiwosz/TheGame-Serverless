@@ -43,8 +43,8 @@ Please remember, we have to stay with Serverless solutions only!
 * Week 1
   * [LinkedIn thread](week01/README.md#thread)
   * [Weekly requirements](week01/README.md#requirements)
-  * [Discussions]()
-  * [Weekly Mindmap]()
-  * [Architecture]()
+  * [Discussions](week01/README.md#discussions)
+  * Weekly Mindmap
+  * [Architecture](week01/README.md#architecture)
   * [Weekly summary](week01/README.md#statistics)
 * Week 2

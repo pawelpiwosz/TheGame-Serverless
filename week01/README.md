@@ -27,4 +27,8 @@ Here are the threads, started by:
 * [Christian Bonzelet](discussions/ChristianBonzelet.md)
 * [Vakhtang Koroghlishvili](discussions/VakhtangKoroghlishvili.md)
 
+## Architecture
+
+This [directory](Architecture/) contains all diagrams created by Authors or me.
+
 ## Statistics

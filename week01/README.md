@@ -14,4 +14,17 @@ Our goal for this week is to discuss Serverless application for voting purposes.
 
 What components should we design? What services are in scope?
 
+## Discussions
+
+Here are the threads, started by:
+
+* [Sam Williams](discussions/SamWilliams.md) +5 responses
+* [Dharmendra Negi](discussions/DharmendraNegi.md) + 2 responses
+* [Pawel Zubkiewicz](discussions/PawelZubkiewicz.md) + 1 response
+* [Jones Zachariah Noel](discussions/JonesZachariahNoel.md)
+* [Ankush Agrawal](discussions/AnkushAgrawal.md)
+* [Matt Morgan](discussions/MattMorgan.md)
+* [Christian Bonzelet](discussions/ChristianBonzelet.md)
+* [Vakhtang Koroghlishvili](discussions/VakhtangKoroghlishvili.md)
+
 ## Statistics

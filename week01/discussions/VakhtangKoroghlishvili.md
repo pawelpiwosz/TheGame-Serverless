@@ -1,0 +1,3 @@
+# Vakhtang Koroghlishvili
+
+This is a great idea! I think the architecture decision will be based on the data volume and what type of aggregation operations are we going to use on the real-time data. One option would be to use AWS Elastic Cache for the user activity (who voted already). CloudFront/S3 for front-end and Cognito for user pool. Batch updates into - DybamoDB via SQS and Lambda (if we are under the quota limits). If we need advanced aggregation operations like real-time vote statistics based on state/city/sex/age - you may need to change the architecture completely to use the Kinesis family and AWS EMR etc.

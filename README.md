@@ -10,7 +10,7 @@ Our Arena for this game is the World of Serverless. All solutions have to use se
 
 I publish some requirements for solution which is later discussed by group of Experts on LinkedIn. The Team has to find solution(s) to given problemto enable next steps. I act as a Game Master, my goal is different. I "win" when the Team is not able to find a solution for given requirements in Serverless world.
 
-# :question: The Quest
+## :question: The Quest
 
 This is the original message published on LinkedIn
 
@@ -42,10 +42,9 @@ Please remember, we have to stay with Serverless solutions only!
 
 * Week 1
   * [LinkedIn thread](week01/README.md#thread)
-  * [Weekly requirements]()
+  * [Weekly requirements](week01/README.md#requirements)
   * [Discussions]()
   * [Weekly Mindmap]()
   * [Architecture]()
-  * [Weekly summary]()
+  * [Weekly summary](week01/README.md#statistics)
 * Week 2
-* 

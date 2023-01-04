@@ -25,6 +25,10 @@ So, let's get started!
 
 Please remember, we have to stay with Serverless solutions only!
 
+## :moneybag: The application
+
+We design a serverless application for voting purposes. We start simple and challenge will grow every week (at least, I hope it will grow :smirk:)
+
 ## :scroll: Rules
 
 * Main rules
@@ -40,11 +44,11 @@ Please remember, we have to stay with Serverless solutions only!
 
 ## :notebook_with_decorative_cover: Table of contents
 
-* Week 1
+* Week 1 (:date: 02.01.2022)
   * [LinkedIn thread](week01/README.md#thread)
   * [Weekly requirements](week01/README.md#requirements)
   * [Discussions](week01/README.md#discussions)
   * Weekly Mindmap
   * [Architecture](week01/README.md#architecture)
   * [Weekly summary](week01/README.md#statistics)
-* Week 2
+* Week 2 (:date: 09.01.2022)

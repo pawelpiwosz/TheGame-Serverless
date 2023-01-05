@@ -26,6 +26,7 @@ Here are the threads, started by:
 * [Matt Morgan](discussions/MattMorgan.md)
 * [Christian Bonzelet](discussions/ChristianBonzelet.md)
 * [Vakhtang Koroghlishvili](discussions/VakhtangKoroghlishvili.md)
+* [Muhammad Nawaz Anjum](discussions/MuhammadNawazAnjum.md)
 
 ## Architecture
 

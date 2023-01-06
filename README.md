@@ -1,6 +1,6 @@
 # :boom: The Game of Serverless
 
-Hello all! This repository is a documentation of the Game played by great people on Linked In.
+Hello all:wave:! This repository is a documentation of the Game played by great people on Linked In.
 
 ## :circus_tent: The Arena
 

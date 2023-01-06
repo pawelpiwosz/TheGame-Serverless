@@ -30,7 +30,7 @@ Here are the threads, started by:
 
 ## :triangular_ruler: Architecture
 
-This [directory](architecture/) contains all diagrams created by Authors or me.
+You find al diagrams in *architecture* directory. It contains all diagrams created by Authors or me.
 
 ## :bulb: Mindmap
 

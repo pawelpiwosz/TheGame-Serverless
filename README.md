@@ -42,6 +42,16 @@ We design a serverless application for voting purposes. We start simple and chal
   * Please, be creative and supportive
   * Discussion is MORE than welcome!
 
+## :triangular_ruler: Architecture diagrams
+
+> Please have in mind that the diagrams available in weekly directories represent only the parts mentioned by their authors.
+
+This means that the pictures there might be not completed, might be focused on a single part of the bigger picture only.
+
+## :lock: Final architecture
+
+I'd like to create the final architecture from this excercise after the game will end.
+
 ## :notebook_with_decorative_cover: Table of contents
 
 * Week 1 (:date: 02.01.2022)

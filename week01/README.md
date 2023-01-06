@@ -1,10 +1,10 @@
 # Week 1
 
-## Thread
+## :link: Thread
 
 [LinkedIn thread](https://www.linkedin.com/posts/pawelpiwosz_devops-design-aws-activity-7015449163140116480-mmH7)
 
-## Requirements
+## :page_with_curl: Requirements
 
 Our goal for this week is to discuss Serverless application for voting purposes. Imagine, we have to design the frontend and backend system for mobile voting application. We have a few requirements only:
 
@@ -14,7 +14,7 @@ Our goal for this week is to discuss Serverless application for voting purposes.
 
 What components should we design? What services are in scope?
 
-## Discussions
+## :thought_balloon: Discussions
 
 Here are the threads, started by:
 
@@ -28,8 +28,22 @@ Here are the threads, started by:
 * [Vakhtang Koroghlishvili](discussions/VakhtangKoroghlishvili.md)
 * [Muhammad Nawaz Anjum](discussions/MuhammadNawazAnjum.md)
 
-## Architecture
+## :triangular_ruler: Architecture
 
-This [directory](Architecture/) contains all diagrams created by Authors or me.
+This [directory](architecture/) contains all diagrams created by Authors or me.
 
-## Statistics
+## :bulb: Mindmap
+
+![Mindmap for week 1](assets/week1-map.png)
+
+## :chart_with_upwards_trend: Statistics
+
+A little statistics about the thread. The data here is updated around the moment of publishing the task of the new week.
+
+| Key                             | Value |
+| :------------------------------ | :---- |
+| Reactions                       | 37    |
+| Impressions                     | 7741  |
+| Comments (excluding my own :) ) | 22    |
+| Reposts                         | 3     |
+| Engaged                         | 11    |

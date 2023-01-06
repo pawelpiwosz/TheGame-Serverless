@@ -50,7 +50,7 @@ This means that the pictures there might be not completed, might be focused on a
 
 ## :lock: Final architecture
 
-I'd like to create the final architecture from this excercise after the game will end.
+I'd like to create the final architecture from this excercise after the end of the game.
 
 ## :notebook_with_decorative_cover: Table of contents
 
@@ -62,3 +62,19 @@ I'd like to create the final architecture from this excercise after the game wil
   * [Architecture](week01/README.md#architecture)
   * [Weekly summary](week01/README.md#statistics)
 * Week 2 (:date: 09.01.2022)
+
+## :pray: Contributors
+
+My big **thank you** :heart: to all of great people who participated in the game!
+
+* [Dharmendra Negi](https://www.linkedin.com/in/dharmendra-negi/)
+* [Christian Bonzelet](https://www.linkedin.com/in/christian-bonzelet/)
+* [Sam Williams](https://www.linkedin.com/in/sam-complete-coding/)
+* [Timothy Doolan](https://www.linkedin.com/in/ACoAABjSM6cBgiZpfC7TZLTXr2tc_sXG_Tq8i2g)
+* [Jones Zacharias Noel](https://www.linkedin.com/in/jones-zachariah-noel-n/)
+* [Pawel Zubkiewicz](https://www.linkedin.com/in/ACoAAACZMKoBHmBOS0ksa1PtgHxMfyjP1yeOQLk)
+* [Jason Wadsworth](https://www.linkedin.com/in/ACoAAADEq98BpohUhakWXxGp2dyU-NE9Dp3VfgY)
+* [Matt Morgan](https://www.linkedin.com/in/ACoAAABAC-gBZV7I527cX2-geu5BXgr1qG768m8)
+* [Ankush Agrawal](https://www.linkedin.com/in/ACoAACBTz04B_uCDEj8yqGPjXPn2MHHNRrW3D8w)
+* [Vakhtang Koroghlishvili](https://www.linkedin.com/in/ACoAAA1smg0B8hYL0ebmFhHPCJipWc06yG06_Xk)
+* [Muhammad Nawaz Anjum](https://www.linkedin.com/in/ACoAAANom3AB7iN_YPN-BBYYOSzVETdC84ftcSE)

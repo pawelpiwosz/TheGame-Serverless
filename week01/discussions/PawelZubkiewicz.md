@@ -1,6 +1,6 @@
 # Pawel Zubkiewicz
 
-A voting app needs to scale (I'm thinking about millions of users, perhaps at the same time?). Obviously, SPA hosted on S3+CloudFront and AuthN/AuthZ provided by Cognito. That's the easy part.
+A voting app needs to scale (I'm thinking about millions of users, perhaps at the same time?). Obviously, SPA hosted on S3 + CloudFront and AuthN/AuthZ provided by Cognito. That's the easy part.
 
 To make backed handle any kind of traffic, I'd use Storage First pattern: API Gateway directly integrated with SQS queue (without Lambda function in the middle).
 

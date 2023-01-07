@@ -32,6 +32,23 @@ Here are the threads, started by:
 
 You find all diagrams in *architecture* directory. It contains all diagrams created by Authors or me.
 
+## :hammer: Services
+
+This list contains **all** services mentioned by Authors.
+
+* Cognito
+* S3 bucket
+* CloudFront
+* Lambda
+* Step Functions
+* Appsync
+* API Gateway
+* DynamoDB
+* SQS
+* SNS
+* Route53
+* ElastiCache
+
 ## :bulb: Mindmap
 
 ![Mindmap for week 1](assets/week1-map.png)
@@ -42,8 +59,8 @@ A little statistics about the thread. The data here is updated around the moment
 
 | Key                             | Value |
 | :------------------------------ | :---- |
-| Reactions                       | 37    |
-| Impressions                     | 7741  |
+| Reactions                       | 38    |
+| Impressions                     | 7821  |
 | Comments (excluding my own :) ) | 22    |
 | Reposts                         | 3     |
 | Engaged                         | 11    |

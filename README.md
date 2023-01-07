@@ -14,8 +14,8 @@ I publish some requirements for solution which is later discussed by group of Ex
 
 This is the original message published on LinkedIn
 
->We hear a lot about Serverless. It becomes more and more popular. There are some who even claims that everything is possible with Serverless :) So, I propose a game :) Every week (if there will be interest, of course) I will publish one requirement or I will reveal one of the elements of the puzzle. It will be a game or challenge for you, but also for me, to ensure the proper level of cool and fun of this game :)  
-Let me explain the rules a little. We go to the quest to build serverless application. Your task (our task:) ) is to discuss the options, solutions, limitations and advantages. I'd to limit our discussion to AWS only, however everyone is welcome - developers, devops, architects, etc with any experience!  
+>We hear a lot about Serverless. It becomes more and more popular. There are some who even claims that everything is possible with Serverless :) So, I propose a game :) Every week (if there will be interest, of course) I will publish one requirement or I will reveal one of the elements of the puzzle. It will be a game or challenge for you, but also for me, to ensure the proper level of cool and fun of this game :smile:  
+Let me explain the rules a little. We go to the quest to build serverless application. Your task (our task:smile:) is to discuss the options, solutions, limitations and advantages. I'd to limit our discussion to AWS only, however everyone is welcome - developers, devops, architects, etc with any experience!  
 Important is, that I want to keep the game simple. What is revealed, is in scope. To give you a picture - if I didn't ask for black button, you are free to have any kind of button you want. If I didn't say that I want synchronous communication - the solution is up to you.  
 My goal is to navigate you to hit the rocks. Think of me like about the Game Master (from RPG games).
 

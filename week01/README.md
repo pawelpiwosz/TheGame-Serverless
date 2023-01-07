@@ -36,18 +36,18 @@ You find all diagrams in *architecture* directory. It contains all diagrams crea
 
 This list contains **all** services mentioned by Authors.
 
-* Cognito
-* S3 bucket
-* CloudFront
-* Lambda
-* Step Functions
-* Appsync
-* API Gateway
-* DynamoDB
-* SQS
-* SNS
-* Route53
-* ElastiCache
+* [Cognito](https://aws.amazon.com/cognito/)
+* [S3 bucket](https://aws.amazon.com/s3/)
+* [CloudFront](https://aws.amazon.com/cloudfront/)
+* [Lambda](https://aws.amazon.com/lambda/)
+* [Step Functions](https://aws.amazon.com/step-functions/)
+* [Appsync](https://aws.amazon.com/appsync/)
+* [API Gateway](https://aws.amazon.com/api-gateway/)
+* [DynamoDB](https://aws.amazon.com/dynamodb/)
+* [SQS](https://aws.amazon.com/sqs/)
+* [SNS](https://aws.amazon.com/sns/)
+* [Route53](https://aws.amazon.com/route53/)
+* [ElastiCache](https://aws.amazon.com/elasticache/)
 
 ## :bulb: Mindmap
 

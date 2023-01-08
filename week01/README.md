@@ -60,7 +60,7 @@ A little statistics about the thread. The data here is updated around the moment
 | Key                             | Value |
 | :------------------------------ | :---- |
 | Reactions                       | 38    |
-| Impressions                     | 7821  |
-| Comments (excluding my own :) ) | 22    |
+| Impressions                     | 7955  |
+| Comments (excluding my own :) ) | 23    |
 | Reposts                         | 3     |
 | Engaged                         | 11    |

@@ -84,3 +84,12 @@ My big **thank you** :heart: to all of great people who participated in the game
 * [Ankush Agrawal](https://www.linkedin.com/in/ACoAACBTz04B_uCDEj8yqGPjXPn2MHHNRrW3D8w)
 * [Vakhtang Koroghlishvili](https://www.linkedin.com/in/ACoAAA1smg0B8hYL0ebmFhHPCJipWc06yG06_Xk)
 * [Muhammad Nawaz Anjum](https://www.linkedin.com/in/ACoAAANom3AB7iN_YPN-BBYYOSzVETdC84ftcSE)
+* [Antonio Lagrotteria](https://www.linkedin.com/in/lagrotteria/)
+
+## :books: Mentions
+
+I would like to say another **thank you** :heart: to
+
+[Jeremy Daly](https://www.linkedin.com/in/ACoAAAJHYKcBDiz0VUy-_e2j6c4z3nDBHC1EN2o) - info about The Game was published in his great Off-by-none #216 - Serverless newsletter.
+
+[Pawel Zubkiewicz](https://www.linkedin.com/in/ACoAAACZMKoBHmBOS0ksa1PtgHxMfyjP1yeOQLk) - for mentioning this activity in his newsletter (in Polish!), published 14th of January 2023.

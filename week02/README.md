@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 ## :link: Thread
 
@@ -34,6 +34,11 @@ After publication some clarification questions appeared. That's good :smile: How
 
 Here are the threads, started by:
 
+* [Antonio Lagrotteria](discussions/AntonioLagrotteria.md)
+* [Sam Williams](discussions/SamWilliams.md)
+* [Jones Zachariah Noel](discussions/JonesZachariahNoel.md)
+* [Matt Morgan](discussions/MattMorgan.md)
+
 ## :triangular_ruler: Architecture
 
 You find all diagrams in *architecture* directory. It contains all diagrams created by Authors or me.
@@ -54,11 +59,41 @@ This list contains **all** services mentioned by Authors. This time, the list co
 * [SNS](https://aws.amazon.com/sns/)
 * [Route53](https://aws.amazon.com/route53/)
 * [ElastiCache](https://aws.amazon.com/elasticache/)
+* [Amplify](https://aws.amazon.com/amplify/)
+* [WAF](https://aws.amazon.com/waf/)
+* [Timestream](https://aws.amazon.com/timestream/)
+
+Third party services
+
+* [Stripe](https://stripe.com/)
+* [PayPal](https://www.paypal.com/)
 
 ## :bulb: Mindmap
 
-TBD
+![Mindmap for week 2](assets/week2-map.png)
 
 ## :chart_with_upwards_trend: Statistics
 
-TBD
+A little statistics about the thread. The final data here is updated around the moment of publishing the task of the new week.
+
+| Key                             | Value |
+| :------------------------------ | :---- |
+| Reactions                       | 15    |
+| Impressions                     | 3558  |
+| Comments (excluding my own :) ) | 11    |
+| Reposts                         | 0 :(  |
+| Engaged                         | 7     |
+
+## :coffee: Comments over coffee (or something else :smile: )
+
+:one: Looks like this week wasn't that challenging. The solutions grew, obviously, contains new services, also obviously. Although three new AWS services landed on the services list, no thing very complicated happened. Of course, on the code level the changes will be wider.
+
+:two: I will be very happy to have more Players, please share, invite people from your networks :)
+
+:three: I am kindly asking about it, as I plan to do more "seasons" :smile:
+
+:four: Small spoiler. We will touch other topics than design of infrastructure soon. Stay tuned! :smile:
+
+:five: No, these thoughs doesn't have any specific order, except how they came to my mind :smirk:
+
+:six: If anyone has an advice how to reach more people, I'll be more than happy to listen!

@@ -63,6 +63,11 @@ I'd like to create the final architecture from this excercise after the end of t
   * [Weekly summary](week01/README.md#statistics)
 * Week 2 (:date: 08.01.2022)
   * [LinkedIn thread](week02/README.md#thread)
+  * [Weekly requirements](week02/README.md#requirements)
+  * [Discussions](week02/README.md#discussions)
+  * [Weekly Mindmap](week02/assets/week1-map.png)
+  * [Architecture](week02/README.md#architecture)
+  * [Weekly summary](week02/README.md#statistics)
 
 ## :pray: Contributors
 

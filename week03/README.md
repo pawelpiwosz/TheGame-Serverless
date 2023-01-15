@@ -6,8 +6,7 @@
 
 ## :page_with_curl: Requirements
 
-* Our Client wishes to have scheduled votings. Another words, to comply with live events, Client wants to set each voting for specific time. For example, from 6 to 7pm on 23.02.2023. Users cannot send votes before the start and after the end of the voting.
-* This must be reflected in FE but also BE needs to render the proper message.
+* Our Client wishes to have scheduled votings. Another words, to comply with live events, Client wants to set each voting for specific time. For example, from 6 to 7pm on 23.02.2023. Users cannot send votes before the start and after the end of the voting. This must be reflected in FE but also BE needs to render the proper message.
 * Client wants to send a few types of messages to people.
   * Reminders. User can add reminder to his profile and be notified 15 minutes before the voting (optional for user). At this point it is 1/0 action. User enables it for all and disables it for all votings.
   * Updates. These are information about upcoming campaigns / votings, etc. Kind of marketing consent. Also optional for users. Will be sent ad-hoc by Client (what means - we need to have admin panel now:) )

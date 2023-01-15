@@ -38,6 +38,7 @@ Here are the threads, started by:
 * [Sam Williams](discussions/SamWilliams.md)
 * [Jones Zachariah Noel](discussions/JonesZachariahNoel.md)
 * [Matt Morgan](discussions/MattMorgan.md)
+* [Ryan Teague](discussions/RyanTeague.md)
 
 ## :triangular_ruler: Architecture
 
@@ -79,10 +80,10 @@ A little statistics about the thread. The final data here is updated around the 
 | Key                             | Value |
 | :------------------------------ | :---- |
 | Reactions                       | 15    |
-| Impressions                     | 3558  |
-| Comments (excluding my own :) ) | 11    |
+| Impressions                     | 3640  |
+| Comments (excluding my own :) ) | 12    |
 | Reposts                         | 0 :(  |
-| Engaged                         | 7     |
+| Engaged                         | 8     |
 
 ## :coffee: Comments over coffee (or something else :smile: )
 

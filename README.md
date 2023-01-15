@@ -68,6 +68,13 @@ I'd like to create the final architecture from this excercise after the end of t
   * [Weekly Mindmap](week02/assets/week1-map.png)
   * [Architecture](week02/README.md#architecture)
   * [Weekly summary](week02/README.md#statistics)
+* Week 3 (:date: 15.01.2022)
+  * [LinkedIn thread](week03/README.md#thread)
+  * [Weekly requirements](week03/README.md#requirements)
+  * [Discussions](week03/README.md#discussions)
+  * [Weekly Mindmap](week03/assets/week1-map.png)
+  * [Architecture](week03/README.md#architecture)
+  * [Weekly summary](week03/README.md#statistics)
 
 ## :pray: Contributors
 
@@ -85,6 +92,7 @@ My big **thank you** :heart: to all of great people who participated in the game
 * [Vakhtang Koroghlishvili](https://www.linkedin.com/in/ACoAAA1smg0B8hYL0ebmFhHPCJipWc06yG06_Xk)
 * [Muhammad Nawaz Anjum](https://www.linkedin.com/in/ACoAAANom3AB7iN_YPN-BBYYOSzVETdC84ftcSE)
 * [Antonio Lagrotteria](https://www.linkedin.com/in/lagrotteria/)
+* [Ryan Teague](https://www.linkedin.com/in/ACoAAAYxuqMBEMbm9yccSaZ5pVTtnVgFAqBZv6M)
 
 ## :books: Mentions
 

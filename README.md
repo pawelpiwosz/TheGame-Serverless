@@ -93,3 +93,5 @@ I would like to say another **thank you** :heart: to
 [Jeremy Daly](https://www.linkedin.com/in/ACoAAAJHYKcBDiz0VUy-_e2j6c4z3nDBHC1EN2o) - info about The Game was published in his great Off-by-none #216 - Serverless newsletter.
 
 [Pawel Zubkiewicz](https://www.linkedin.com/in/ACoAAACZMKoBHmBOS0ksa1PtgHxMfyjP1yeOQLk) - for mentioning this activity in his newsletter (in Polish!), published 14th of January 2023.
+
+[Jones Zacharias Noel](https://www.linkedin.com/in/jones-zachariah-noel-n/) Shared The Game in his [The Serverless Terminal](https://everythingawsserverless.substack.com/p/a-lot-in-pipe-for-2023-issue-23) #23.

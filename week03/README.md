@@ -84,7 +84,7 @@ A little statistics about the thread. The final data here is updated around the 
 
 ## :coffee: Comments over coffee (or something else :smile: )
 
-:one: I definitely need to work on marketing side of this game :)
-:two: The designs didn't change much. I think, Antonio provides most of changes comparing to previous design.
-:three: Next challenge will be a little bit different, stay tuned :)
+:one: I definitely need to work on marketing side of this game :)  
+:two: The designs didn't change much. I think, Antonio provides most of changes comparing to previous design.  
+:three: Next challenge will be a little bit different, stay tuned :)  
 :four: I still have a lot of thrill when looking on my wall: "maybe somebody commented? maybe there is a new design?". Don't make me feel sad :)

@@ -30,7 +30,11 @@ All these messages must be pushed to the app (not email, or any other channel).
 
 Here are the threads, started by:
 
-TBD
+* [Antonio Lagrotteria](discussions/AntonioLagrotteria.md)
+* [Dharmendra Negi](discussions/DharmendraNegi.md)
+* [Matt Morgan](discussions/MattMorgan.md)
+* [Jones Zachariah Noel](discussions/JonesZachariahNoel.md)
+
 
 ## :triangular_ruler: Architecture
 
@@ -55,6 +59,7 @@ This list contains **all** services mentioned by Authors. This time, the list co
 * [Amplify](https://aws.amazon.com/amplify/)
 * [WAF](https://aws.amazon.com/waf/)
 * [Timestream](https://aws.amazon.com/timestream/)
+* [EventBridge](https://aws.amazon.com/eventbridge/)
 
 Third party services
 
@@ -63,14 +68,23 @@ Third party services
 
 ## :bulb: Mindmap
 
-TBD
+![Mindmap for week 3](assets/week3-map.png)
 
 ## :chart_with_upwards_trend: Statistics
 
 A little statistics about the thread. The final data here is updated around the moment of publishing the task of the new week.
 
-TBD
+| Key                             | Value |
+| :------------------------------ | :---- |
+| Reactions                       | 16    |
+| Impressions                     | 1733  |
+| Comments (excluding my own :) ) | 10    |
+| Reposts                         | 0 :(  |
+| Engaged                         | 5     |
 
 ## :coffee: Comments over coffee (or something else :smile: )
 
-TBD
+:one: I definitely need to work on marketing side of this game :)
+:two: The designs didn't change much. I think, Antonio provides most of changes comparing to previous design.
+:three: Next challenge will be a little bit different, stay tuned :)
+:four: I still have a lot of thrill when looking on my wall: "maybe somebody commented? maybe there is a new design?". Don't make me feel sad :)

@@ -65,16 +65,30 @@ I'd like to create the final architecture from this excercise after the end of t
   * [LinkedIn thread](week02/README.md#thread)
   * [Weekly requirements](week02/README.md#requirements)
   * [Discussions](week02/README.md#discussions)
-  * [Weekly Mindmap](week02/assets/week1-map.png)
+  * [Weekly Mindmap](week02/assets/week2-map.png)
   * [Architecture](week02/README.md#architecture)
   * [Weekly summary](week02/README.md#statistics)
 * Week 3 (:date: 15.01.2022)
   * [LinkedIn thread](week03/README.md#thread)
   * [Weekly requirements](week03/README.md#requirements)
   * [Discussions](week03/README.md#discussions)
-  * [Weekly Mindmap](week03/assets/week1-map.png)
+  * [Weekly Mindmap](week03/assets/week3-map.png)
   * [Architecture](week03/README.md#architecture)
   * [Weekly summary](week03/README.md#statistics)
+* Week 4 (:date: 22.01.2022)
+  * [LinkedIn thread](week04/README.md#thread)
+  * [Weekly requirements](week04/README.md#requirements)
+  * [Discussions](week04/README.md#discussions)
+  * [Weekly Mindmap](week04/assets/week4-map.png)
+  * [Architecture](week04/README.md#architecture)
+  * [Weekly summary](week04/README.md#statistics)
+* Week 5 (:date: 29.01.2022)
+  * [LinkedIn thread](week05/README.md#thread)
+  * [Weekly requirements](week05/README.md#requirements)
+  * [Discussions](week05/README.md#discussions)
+  * [Weekly Mindmap](week05/assets/week5-map.png)
+  * [Architecture](week05/README.md#architecture)
+  * [Weekly summary](week05/README.md#statistics)
 
 ## :pray: Contributors
 
@@ -93,6 +107,7 @@ My big **thank you** :heart: to all of great people who participated in the game
 * [Muhammad Nawaz Anjum](https://www.linkedin.com/in/ACoAAANom3AB7iN_YPN-BBYYOSzVETdC84ftcSE)
 * [Antonio Lagrotteria](https://www.linkedin.com/in/lagrotteria/)
 * [Ryan Teague](https://www.linkedin.com/in/ACoAAAYxuqMBEMbm9yccSaZ5pVTtnVgFAqBZv6M)
+* [Serhii Kryvoruchko](https://www.linkedin.com/in/ACoAABe9YbABCjMXP2oQco7X6eq7yWcUZgCO0Ao)
 
 ## :books: Mentions
 

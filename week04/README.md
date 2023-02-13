@@ -88,7 +88,7 @@ A little statistics about the thread. The final data here is updated around the 
 
 ## :coffee: Comments over coffee (or something else :smile: )
 
-:one: We have disagreement from the Team to requeirements about SLA! Cool!
-:two: This is something what we treat too lightly sometimes. We have to remember, that the SLA of the service we provide is in consequence taken from all services we use.
-:three: Not many entries this time
+:one: We have disagreement from the Team to requeirements about SLA! Cool!  
+:two: This is something what we treat too lightly sometimes. We have to remember, that the SLA of the service we provide is in consequence taken from all services we use.  
+:three: Not many entries this time  
 :four: I have a feeling that this week could be too tough.

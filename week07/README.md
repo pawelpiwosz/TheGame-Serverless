@@ -1,24 +1,71 @@
-# Week 5
+# Week 7
 
 ## :link: Thread
 
-[LinkedIn thread](https://www.linkedin.com/posts/pawelpiwosz_devops-aws-design-activity-7025588254343114752-mGiS)
+[LinkedIn thread](TBD)
+
+## :question: The poll
+
+This week is different. In fact, you selected the challenge but... I added something from myself :smile:
+
+So, we had a pool. And here are the results
+
+| Option | Votes |
+|:-------|:-----:|
+| Go deeper into security | 7 |
+| Another challenge for architecture | 4 |
+| Simple Value Stream Map task | 4 |
+| **Challenge CTO's CI/CD design** | **9** |
+
+The winner is obvious, however, I had a *brilliant* idea and we will have quite interesting challenge this week!
 
 ## :page_with_curl: Requirements
 
-Here is our task. We are assessed by the team of consultants. They asked for a few details about our approach. They know the application is serverless and is hosted in AWS. Tey want to know:
+Ok, so, our challenge this week contains two elements. One "obligatory" and one optional.
 
-* What is the code approach? Do you use one monorepo or do you have different approach?
-* What branching strategy do you use?
-* What is your environments strategy? (here you have freedom to design as many envs as you wish, in fact you are responsible for DevOps too :) )
-* How did you build the CI/CD What tools do you use?
-* What quality gates are designed in the system?
-* What deployment strategy did you select?
-* What measurements you collect from CI/CD?
-* How do you monitor CI/CD?
-* What kind of security did you implement and how?
+### :boom: Obligatory
 
-So, your task this week is to answer to these questions. Please, try to be very open and descriptive :) It is not exactly serverless task, however it is related to our serverless approach.
+> **Note**
+> Some background of the CTO. This is his first project in Serverless technology. He has almost 30 years of experience in IT (well, not much more than me, coincidence? :smirk: ) He came from very huge and procedure-oriented company. His team consist of developers, testers, architects, but no one knows DevOps, so he took it. And, well... he is quite sure of his skills ;P
+
+Here is the diagram of CI/CD process. This is designed by CTO and the diagram is created during quality assessment.
+
+![CI/CD diagram](assets/pipeline.png)
+
+Issues found during assessment:
+
+* pipeline fails very often
+* during the manual test pipeline is "frozen" and stays in this state for long time
+* Team is not able to get any valueable metrics from the pipeline
+* Team has a "feeling" that pipeline is not valuable at all and disconnected from the development
+
+Our task is to:
+
+* propose toolset which can be better for serverless workload (if applicable)
+* improve the steps of the pipeline (redesign from scratch if you wish)
+
+### :sparkles: Optional
+
+Now the fun begins :smile:
+
+Obligatory task contains some part of work done during assesment. But something more was done. The assessment team prepared the Current state of value stream.
+
+> **Note**
+> Well, I had troubles with this part. So, I came to conclusion I create very simplified value stream map, to engage as many of you as possible.
+
+Below is the picture of captured current value stream. On this map you can see identified steps with data about them.
+
+![Value stream map](assets/minivaluemap.png)
+
+Legend:
+
+* PT - Process Time - actual work time.
+* LT - Lead time - period of time in which the work is in the stage
+* AR - Activity Ratio - for how long the work is idle.
+* %C&A - Complete and accurate. This vale describes percentage of work which is done properly. For example, if 30% of work which is pushed to phase B need to be returned back to phase A (because of issues, errors, bugs, etc), it means that your Activity Ration is equal to 70%. So, almost 1/3 of your work needs some kind of rework.
+* Rolled %C&A - accuracy of the whole process. AS you can see, it isn't... good.
+
+Ok, so we know what is the current state. Your task is create improvements. Well, let it be the ideal state. Base on CI/CD from obligatory part and your experience (please, remember, this is the game, we don't want to be strict and stiff :smile:), please find a way how to make this process nice and smooth.
 
 ## :bookmark_tabs: Previous requirements
 
@@ -42,11 +89,7 @@ So, your task this week is to answer to these questions. Please, try to be very 
 
 Here are the threads, started by:
 
-* [Vakhtang Koroghlishvili](discussions/VakhtangKoroghlishvili.md)
-* [Matt Morgan](discussions/MattMorgan.md)
-* [Sam Williams](discussions/SamWilliams.md)
-* [Serhii Kryvoruchko](discussions/SerhiiKryvoruchko.md)
-* [Dharmendra Negi](discussions/DharmendraNegi.md)
+TBD
 
 ## :triangular_ruler: Architecture
 
@@ -92,23 +135,12 @@ Third party services
 
 ## :bulb: Mindmap
 
-![Mindmap for week 5](assets/week5-map.png)
+TBD
 
 ## :chart_with_upwards_trend: Statistics
 
-A little statistics about the thread. The final data here is updated around the moment of publishing the task of the new week.
-
-| Key                             | Value |
-| :------------------------------ | :---- |
-| Reactions                       | 12    |
-| Impressions                     | 3021:)|
-| Comments (excluding my own :) ) | 8     |
-| Reposts                         | 1     |
-| Engaged                         | 6     |
+TBD
 
 ## :coffee: Comments over coffee (or something else :smile: )
 
-:one: *Anything except AWS CodePipline toolset* from Sam :) Love it :) However, I use CodePipeline, I prefer other tools.  
-:two: Engagement for security guys will go further  
-:three: The beauty of this game is in different scenarios you provide. Example: git trunk and git flow.  
-:four: Finally some nice engagement :D
+TBD

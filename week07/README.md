@@ -2,7 +2,7 @@
 
 ## :link: Thread
 
-[LinkedIn thread](TBD)
+[LinkedIn thread](https://www.linkedin.com/posts/pawelpiwosz_github-pawelpiwoszthegame-serverless-activity-7030699574428057601-1xp6)
 
 ## :question: The poll
 

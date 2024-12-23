@@ -2,7 +2,7 @@
 
 Hello all :wave:! This repository is a documentation of the Game played by great people on LinkedIn.
 
-We had one game 3 years ago (wow, time flies...). I really enjoyed that game, I wonder if this time this game can be even bigger :smile:
+We had one game 2 years ago (wow, time flies...). I really enjoyed that game, I wonder if this time this game can be even bigger :smile:
 
 ## :circus_tent: The Arena
 

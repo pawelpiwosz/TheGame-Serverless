@@ -2,7 +2,7 @@
 
 ## :link: Thread
 
-[LinkedIn thread]()
+[LinkedIn thread](https://www.linkedin.com/posts/pawelpiwosz_thegame-serverlessgame2025readmemd-at-activity-7280318540430135296-8RMR)
 
 ## :page_with_curl: Requirements
 
@@ -16,7 +16,7 @@
 
 **Quality Attribute 1**: The system must support 10,000 concurrent users accessing agenda data without performance degradation.
 
-**Quality Attrbute 2**: The system must support max to 100,000 users.
+**Quality Attribute 2**: The system must support max to 100,000 users.
 
 ## :thought_balloon: Discussions
 

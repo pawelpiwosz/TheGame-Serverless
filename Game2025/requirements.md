@@ -18,4 +18,4 @@ Yes, sometimes the requirements can be contradictory. It might happen, it is don
 
 **1**: The system must support 10,000 concurrent users accessing agenda data without performance degradation. *(week 1)*
 
-**2**: The system must support max to 100,000 users. *(week 2)*
+**2**: The system must support max to 100,000 users. *(week 1)*

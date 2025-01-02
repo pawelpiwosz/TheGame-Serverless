@@ -16,24 +16,21 @@ I publish some requirements for solution which is later discussed by group of Ex
 
 ## :question: The Quest
 
-This is the original message published on LinkedIn
-
-I will publish it when time will come :smile:
-
-## :moneybag: The application
-
-This will come soon!
+Go to proper directory (like Game2025) and there you find the game and requirements! 
 
 ## :scroll: Rules
 
 * Main rules
   * Everyone is welcome!
   * There is no bad solution! There are good or better ones :smile:
-  * This is a game for fun, not an exam!
+  * This is a game for fun, not an exam!  
+  * Discuss, discuss discuss! I want you to make this place alive!  
 * Game rules
   * Every week some of the requirements will be revealed by me in separate thread
-  * We use only AWS serverless services!
-  * What is revealed, is in scope. To give you a picture - if I didn't ask for black button, you are free to have any kind of button you want. If I didn't say that I want synchronous communication - the solution is up to you.
+  * We use only AWS serverless sevices!
+  * What is revealed, is in scope. To give you a picture - if I didn't ask for black button, you are free to have any kind of button you want. If I didn't say that I want synchronous communication - the solution is up to you.  
+  * Go as deep as you can. No, you don't need to provide the code :smile: As much details about solution you can give, the better and the more valuable our game will be.  
+  * If you can, describe the functionalities of Lambda functions (for example what is needed to be run in handler, what should be in the init phase, etc), each step of Step functions, schemas and indexes in databases, and so on.
   * Please, be creative and supportive
   * Discussion is MORE than welcome!
 
@@ -47,22 +44,7 @@ This means that the pictures there might be not completed, might be focused on a
 
 I'd like to create the final architecture from this excercise after the end of the game.
 
-## :notebook_with_decorative_cover: Table of contents
+## :notebook_with_decorative_cover: Table of games
 
-* Week 1 (:date: 02.01.2022)
-  * [LinkedIn thread](Game2025/week01/README.md#thread)
-  * [Weekly requirements](Game2025/week01/README.md#requirements)
-  * [Discussions](Game2025/week01/README.md#discussions)
-  * [Weekly Mindmap](Game2025/week01/assets/week1-map.png)
-  * [Architecture](Game2025/week01/README.md#architecture)
-  * [Weekly summary](Game2025/week01/README.md#statistics)
-
-## :pray: Contributors
-
-My big **thank you** :heart: to all of great people who participated in the game!
-
-Do you want to be listed here? Follow me on LinkedIn, play the game!
-
-## :books: Mentions
-
-Honorable mentions will go here :smile:
+* [Game 2023](Game2023/README.md)  
+* [Game 2025](Game2025/README.md)
